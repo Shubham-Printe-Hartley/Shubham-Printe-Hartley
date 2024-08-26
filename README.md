@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning avanced react js, python, aws.
 - 📫 How to reach me ...
-  shubham@betacraft.com
+  shubham@digialpha.co
 
 <!---
 Shubham-Printe-Hartley/Shubham-Printe-Hartley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
